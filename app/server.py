@@ -11,7 +11,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/s/z90zh72izb36m8j/export.pkl?dl=1'
+export_file_url = 'https://www.dropbox.com/s/im9g5nl0vl9l06p/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['Parasitised_Cell', 'Parasitized', 'Uninfected']
